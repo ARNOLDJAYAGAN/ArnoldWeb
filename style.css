@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: serif;
+}
+.container{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://r4.wallpaperflare.com/wallpaper/892/692/922/howl-s-moving-castle-studio-ghibli-fantasy-art-clouds-daylight-hd-wallpaper-3be62c2d93012fc995842bf94d4cdc00.jpg);
+    width: 100%;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.nav{
+    float: right;
+}
+.nav ul li{
+    display: inline-block;
+    margin-top: 20px;
+    margin-right: 60px;
+    margin-left: 20px;
+}
+.nav ul li a {
+    color: white;
+    text-shadow: 1px 1px rgb(119, 181, 206);
+    font-size: 20px;
+    text-decoration: none;
+}
+.title{
+    text-align: center;
+    padding-top: 350px;
+}
+.title h1{
+    font-size: 55px;
+    color: white;
+    text-shadow:1px 1px rgb(119, 181, 206);
+}
+.title p {
+    font-size: 20px;
+    color: white;
+    text-shadow: 1px 1px rgb(119, 181, 206);
+    padding-top: 20px;
+}
+.about{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://r4.wallpaperflare.com/wallpaper/803/347/759/anime-natural-light-landscape-forest-studio-ghibli-hd-wallpaper-48365d3810f05c08a02cc19e888214ba.jpg);
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+
+}
+.text4{
+    text-align: center;
+    padding-top: 350px;
+}
+.text4 h1{
+    font-size: 55px;
+    color: white;
+    text-shadow: 1px 1px rgb(119, 181, 206);
+    padding: 10px;
+}
+.text4 p{
+    font-size: 20px;
+    color: white;
+    text-shadow: 1px 1px rgb(119, 181, 206);
+}
+.text1{
+    text-align: center;
+    padding-top: 350px;
+}
+.text1 h1{
+    font-size: 55px;
+    color: white;
+    text-shadow: 1px 1px rgb(119, 181, 206);
+
+}
+.text1 p{
+    font-size: 20px;
+    color: white;
+    text-shadow: 1px 1px rgb(119, 181, 206);
+}
+.cont{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://r4.wallpaperflare.com/wallpaper/733/4/859/anime-princess-mononoke-studio-ghibli-wallpaper-9990687d51aadd4be657f84f905106fd.jpg);
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+}
+.text2{
+    text-align: center;
+    padding-top: 350px;
+}
+.text2 h1{
+    font-size: 55px;
+    color: white;
+    text-shadow: 1px 1px rgb(119, 181, 206);
+    margin-bottom: 20px;
+}
+.text2 p{
+    font-size: 20px;
+    color: white;
+    text-shadow: 1px 1px rgb(119, 181, 206);
+}
+.icon{
+    color: white;
+}
+.icon i{
+    padding: 10px;
+    font-size: 15px;
+}
